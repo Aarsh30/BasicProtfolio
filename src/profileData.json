@@ -1,0 +1,175 @@
+{
+	"landing": {
+		"firstName": "Hi,I'm ",
+		"lastName": "Aarsh 👋",
+		"phoneNumber": "I'm a Full Stack 👨‍💻 Developer",
+		"bio": "I'm an Undergraduate Junior Year Student currently undertaking a Bachelors course in Computer Science and Engineering at Vellore Institute of Technology.I'm also an active Content Creator on YouTube with 9000+ Subscribers.My primary strengths lie in my Time Management, Self-Motivation and a deep desire to learn something new.",
+    "email": "Patelaarsh3011@gmail.com   ",
+    "linkedin": "https://www.linkedin.com/in/aarshpatel30/",
+		"github": "https://github.com/Aarsh30",
+		"youtube":"https://www.youtube.com/channel/UC8lWeV0xePxysVetCBGvLzA?sub_confirmation=1",
+		"instagram" : "https://www.instagram.com/excellence_exploring/"
+
+	},
+	"experience": [
+		{
+			"position": "Content Lead",
+			"organization": "Google Developer Student Club",
+			"aboutWork": "Managing the content, Marketing Stragey for Clubs.",
+			"fromDate": "November 2022",
+			"toDate": "Present"
+	},
+		{
+				"position": "Program Representative for 2020 Batch ",
+				"organization": "VIT-AP",
+				"aboutWork": "As a PR of 2020 Batch use to solve the doubts of various students related to academics.",
+				"fromDate": "January 2020",
+				"toDate": "Present"
+		},
+		{
+			"position": "Content Creator Lead ",
+			"organization": "Youtuber Club ",
+			"aboutWork": "Manage a grouple of people and works towards the content creation.",
+			"fromDate": "January 2021",
+			"toDate": "Septmeber 2022"
+	},
+		
+		{
+			"position": "Social Media Expert",
+			"organization": "VIT-AP",
+			"aboutWork": "Manage content of social media app of VIT-AP.",
+			"fromDate": "June 2022",
+			"toDate": "Januray 2022"
+		}
+	],
+
+	"education": [{
+			"university": "Vellore Institue of Technology-AP",
+			"degree": "Bachelor of Engineering",
+			"gpa": "9.34",
+			"fromDate": "August 2020",
+			"toDate": "Present"
+		},
+		{
+			"university": "Shree Swaminarayan International Gunwhanti VidhyaDham",
+			"degree": "HSSC",
+			"gpa": "88.2%",
+			"fromDate": "2018",
+			"toDate": "2020"
+		},
+		{
+			"university": "Shree Shreeji English Medium School",
+			"degree": "SSC",
+			"gpa": "84.5%",
+			"fromDate": "2005",
+			"toDate": "2018"
+		}
+	],
+	"skills": [{
+			"name": "HTML,CSS"
+		},
+		{
+			"name": "Java"
+		},
+		{
+			"name": "Javascript"
+		},
+		{
+			"name": "C"
+		},
+		{
+			"name": "MongoDB"
+		},
+		{
+			"name": "SQL"
+		},
+		{
+			"name": "Node.js"
+		},
+		{
+			"name": "Python"
+		},
+		{
+			"name": "React"
+		},
+		{
+			"name": "GIT/Github"
+		},
+		{
+			"name": "DSA"
+		},
+		{
+			"name": "OOPS"
+		},
+		{
+			"name": "DAA"
+		},
+		{
+			"name": "DBMS"
+		},
+		{
+			"name": "Computer Network"
+		},
+		{
+			"name": "Cyber Security"
+		}
+		
+	],
+
+	"courses":[
+		{
+			"course": "Data Structure and Algorithm"
+		},{
+			"course": "Data Structure and Algorithm"
+		},{
+			"course": "Data Structure and Algorithm"
+		}
+	],
+	"interests": {
+		"paragraphOne": "💻 Development",
+		"paragraphTwo": "📚 Reading",
+		"paragraphThree": "🎥 Content Creator",
+		"paragraphFour":"🎍 Gardening",
+		"paragraphFive":"📸 VideoEditior"
+	},
+	"awards": [{
+			"awardDetail": "Academic Achivement 2022"
+		},
+		{
+			"awardDetail": "Secure 9th Position in CodeBid Hackthon"
+		},
+		{
+			"awardDetail": "Recived Udemy Web Developer Certificate"
+		},
+		{
+			"awardDetail": "Top 10 in VIT AP National Hackthon"
+		},
+		{
+			"awardDetail": "Certificate of Completion on Hands on wireless Network security"
+		}		
+	],
+	"project":[
+		{
+			"project": "To Do List ",
+				"pdetails":"To-Do List project is an application specially built to keep track of errands or tasks that need to be done. Using MERN Stack",
+				"plink":"https://github.com/Aarsh30/toDoList"
+			},
+		{
+			"project": "Security Authentication",
+			"pdetails":"This is an application which provide security to web Page Authentication and all the data is store in database. Using MERN Stack",
+			"plink":"https://github.com/Aarsh30"
+		},
+		{
+			"project": "Easy Quiz ",
+			"pdetails":"This is a portal where the students can give the examination and Teachers can assign the questions and can be evaluated based on the answers and perform CRUD operation in Database: HTML, CSS,JavaScript, PHP, and MYSQL",
+			"plink":"https://github.com/Aarsh30/Easy-Quiz"
+		},
+		{
+		"project": "Drum Kit",
+		"pdetails":"This is a minor project which consit of drum kit where all sounds of track can play by click or with keyboard letter : HTML,CSS,Javascript",
+		"plink":"https://github.com/Aarsh30/Drum-Kit"
+	}
+	
+	
+	]
+}
